@@ -1,0 +1,3 @@
+upstream: https://api.openai.com
+fail_closed: true
+rules_path: ./rules.yaml
